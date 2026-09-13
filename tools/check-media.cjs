@@ -26,12 +26,12 @@ try {
 }
 assert(!scan()[0].videos.some(p=>p.includes('scan-test-')));
 const gamesCode=fs.readFileSync(path.join(root,'games.js'),'utf8');
-const engine=fs.readFileSync(path.join(root,'rollcage.js'),'utf8');
+const engine=fs.readFileSync(path.join(root,'ali-hamza.js'),'utf8');
 new vm.Script(gamesCode);new vm.Script(engine);
 const map={GAMES:games,window:{}};
 vm.runInNewContext(gamesCode.split('(function(){')[0],map);
 let hits=[];
-const ctx={gamesMode:true,ZONES:map.window.ROLLCAGE_GAMES,car:{x:0,z:48,yaw:0,vf:0},activeZone:null,openZone:z=>hits.push(z.id),Math};
+const ctx={gamesMode:true,ZONES:map.window.ALI_HAMZA_GAMES,car:{x:0,z:48,yaw:0,vf:0},activeZone:null,openZone:z=>hits.push(z.id),Math};
 const start=engine.indexOf('function updateZones(dt)');
 vm.runInNewContext(engine.slice(start,engine.indexOf('/* --------------------------------------------------------------- camera ---- */',start)),ctx);
 for(const z of ctx.ZONES){

@@ -1,4 +1,4 @@
-window.ROLLCAGE_GAMES = GAMES.filter(function(game){return game.category !== 'demo';}).map(function(game, i) {
+window.ALI_HAMZA_GAMES = GAMES.filter(function(game){return game.category !== 'demo';}).map(function(game, i) {
   return {id:game.id, name:game.name, hint:'GAME '+String(i+1).padStart(2,'0')+' · DRIVE INTO BOX',
     tag:'Game '+(i+1), x:(i%4)*28-42, z:32-Math.floor(i/4)*24, r:8, dir:[0,-1], game:game};
 });

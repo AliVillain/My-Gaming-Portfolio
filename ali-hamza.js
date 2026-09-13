@@ -3,7 +3,7 @@
 "use strict";
 
 var canvas = document.getElementById("gl");
-var gamesMode = !!window.ROLLCAGE_GAMES;
+var gamesMode = !!window.ALI_HAMZA_GAMES;
 var gl = canvas.getContext("webgl2", { antialias: true, alpha: false, powerPreference: "high-performance" });
 if (!gl) {
   document.getElementById("fail").style.display = "grid";
@@ -540,7 +540,7 @@ function applyTheme(id, remember) {
   document.getElementById("themeName").textContent = t.name;
   var sw = document.getElementById("sws").children;
   for (i = 0; i < sw.length; i++) sw[i].classList.toggle("on", i === themeIx);
-  if (remember !== false) { try { localStorage.setItem("rollcage.theme", id); } catch (e) {} }
+  if (remember !== false) { try { localStorage.setItem("ali-hamza.theme", id); } catch (e) {} }
 }
 function nextTheme() { applyTheme(THEMES[(themeIx + 1) % THEMES.length].id); }
 
@@ -558,7 +558,7 @@ function nextTheme() { applyTheme(THEMES[(themeIx + 1) % THEMES.length].id); }
 })();
 
 var saved = null;
-try { saved = localStorage.getItem("rollcage.theme"); } catch (e) {}
+try { saved = localStorage.getItem("ali-hamza.theme"); } catch (e) {}
 applyTheme(saved || "ember", false);
 
 
@@ -635,7 +635,7 @@ var ZONES = [
   }
 ];
 
-if (gamesMode) { ZONES = window.ROLLCAGE_GAMES; RAMPS.length = 0; }
+if (gamesMode) { ZONES = window.ALI_HAMZA_GAMES; RAMPS.length = 0; }
 
 /* keep scenery out of the pads and their run-ups */
 function nearZone(x, z, pad) {
@@ -1452,7 +1452,7 @@ function loop(now) {
 requestAnimationFrame(loop);
 
 /* read/write handle on the simulation, used by the headless test harness */
-window.rollcage = { car: car, cam: cam, ramps: RAMPS, zones: ZONES, groundAt: groundAt,
+window.aliHamza = { car: car, cam: cam, ramps: RAMPS, zones: ZONES, groundAt: groundAt,
                     step: step, tickZones: updateZones,
                     active: function () { return activeZone && activeZone.id; },
                     start: function () { started = true; setCamMode(TOPDOWN); } };
