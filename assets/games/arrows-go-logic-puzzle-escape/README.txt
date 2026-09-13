@@ -1,0 +1,6 @@
+Arrows Go: Logic Puzzle Escape
+https://play.google.com/store/apps/details?id=com.hivemind.arrows.escape.brainpuzzle.games&hl=en
+
+Drop videos (.mp4, .webm, .ogv, .ogg, .m4v) and screenshots (.png, .jpg, .jpeg, .webp, .gif, .avif) here. Any filename works; subfolders are supported.
+
+Use START-SITE.cmd for automatic scanning, then reopen this game panel. Before publishing, run UPDATE-MEDIA.cmd and upload the whole project.

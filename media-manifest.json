@@ -1,0 +1,300 @@
+[
+  {
+    "id": "gangster-open-world-game",
+    "name": "Gangster Open World Game",
+    "url": "https://play.google.com/store/apps/details?id=com.cbg.gangstermafiacrime.action.shooting.games",
+    "category": "game",
+    "folder": "assets/games/gangster-open-world-game",
+    "screenshots": [
+      "assets/games/gangster-open-world-game/Capture2.PNG"
+    ],
+    "videos": []
+  },
+  {
+    "id": "house-makeover-cleaning-games",
+    "name": "House Makeover Cleaning Games",
+    "url": "https://play.google.com/store/apps/details?id=com.ts.homedecor.makeovergames",
+    "category": "game",
+    "folder": "assets/games/house-makeover-cleaning-games",
+    "screenshots": [
+      "assets/games/house-makeover-cleaning-games/Capture5.PNG"
+    ],
+    "videos": []
+  },
+  {
+    "id": "death-road-truck-driving-game",
+    "name": "Death Road Truck Driving Game",
+    "url": "https://play.google.com/store/apps/details?id=com.dreamtorisre.OffroadTruckTransport3dGames",
+    "category": "game",
+    "folder": "assets/games/death-road-truck-driving-game",
+    "screenshots": [
+      "assets/games/death-road-truck-driving-game/Capture3.PNG"
+    ],
+    "videos": []
+  },
+  {
+    "id": "virtual-mother-family-life-sim",
+    "name": "Virtual Mother Family Life Sim",
+    "url": "https://play.google.com/store/apps/details?id=com.cbg.virtual.mom.mother.families.life.sim.game",
+    "category": "game",
+    "folder": "assets/games/virtual-mother-family-life-sim",
+    "screenshots": [
+      "assets/games/virtual-mother-family-life-sim/Capture6.PNG"
+    ],
+    "videos": []
+  },
+  {
+    "id": "3d-tank-battle",
+    "name": "3D Tank Battle",
+    "url": "https://play.google.com/store/apps/details?id=com.tank.force.battle3d.tankgames",
+    "category": "game",
+    "folder": "assets/games/3d-tank-battle",
+    "screenshots": [
+      "assets/games/3d-tank-battle/Capture4.PNG"
+    ],
+    "videos": []
+  },
+  {
+    "id": "vr-games",
+    "name": "VR Games",
+    "url": "https://drive.google.com/drive/folders/1zSsl6z_7P43fV98SuziSvJ51Jf9pY6hu",
+    "category": "game",
+    "folder": "assets/games/vr-games",
+    "screenshots": [
+      "assets/games/vr-games/vr-game.jpg"
+    ],
+    "videos": []
+  },
+  {
+    "id": "police-car-driving-simulator",
+    "name": "Police Car Driving Simulator",
+    "url": "https://play.google.com/store/apps/details?id=com.waypoint.games.police.car.drive&hl=en&gl=US",
+    "category": "game",
+    "folder": "assets/games/police-car-driving-simulator",
+    "screenshots": [
+      "assets/games/police-car-driving-simulator/Capture7.PNG"
+    ],
+    "videos": []
+  },
+  {
+    "id": "excavator-construction-game-3d",
+    "name": "Excavator Construction Game 3d",
+    "url": "https://play.google.com/store/apps/details?id=com.waypoint.construction.driving.school&hl=en&gl=US",
+    "category": "game",
+    "folder": "assets/games/excavator-construction-game-3d",
+    "screenshots": [
+      "assets/games/excavator-construction-game-3d/Capture8.PNG"
+    ],
+    "videos": []
+  },
+  {
+    "name": "Limo Driving Crazy Taxi Games",
+    "url": "https://play.google.com/store/apps/details?id=com.waypoint.limo.driver.game",
+    "category": "game",
+    "id": "limo-driving-crazy-taxi-games",
+    "folder": "assets/games/limo-driving-crazy-taxi-games",
+    "screenshots": [],
+    "videos": []
+  },
+  {
+    "name": "Happy Family Life: Mom Games",
+    "url": "https://play.google.com/store/apps/details?id=com.ts.bestmom.happyfamily.simulator",
+    "category": "game",
+    "id": "happy-family-life-mom-games",
+    "folder": "assets/games/happy-family-life-mom-games",
+    "screenshots": [],
+    "videos": []
+  },
+  {
+    "name": "Flying Superhero Monster Truck",
+    "url": "https://play.google.com/store/apps/details?id=com.cbg.flying.superhero.monster.truck",
+    "category": "game",
+    "id": "flying-superhero-monster-truck",
+    "folder": "assets/games/flying-superhero-monster-truck",
+    "screenshots": [],
+    "videos": []
+  },
+  {
+    "name": "American Car Driving Games",
+    "url": "https://play.google.com/store/apps/details?id=com.ts.car.drivingschool.academy",
+    "category": "game",
+    "id": "american-car-driving-games",
+    "folder": "assets/games/american-car-driving-games",
+    "screenshots": [],
+    "videos": []
+  },
+  {
+    "name": "Bike Stunt Game: Bike Race 3D",
+    "url": "https://play.google.com/store/apps/details?id=com.vg.bike.stunt.racing.free.games",
+    "category": "game",
+    "id": "bike-stunt-game-bike-race-3d",
+    "folder": "assets/games/bike-stunt-game-bike-race-3d",
+    "screenshots": [],
+    "videos": []
+  },
+  {
+    "name": "Car Games 3D - Gadi Wali Game",
+    "url": "https://play.google.com/store/apps/details?id=com.ge.highway.car.driving.game",
+    "category": "game",
+    "id": "car-games-3d-gadi-wali-game",
+    "folder": "assets/games/car-games-3d-gadi-wali-game",
+    "screenshots": [],
+    "videos": []
+  },
+  {
+    "name": "Gun Games 3D - Shooter Games",
+    "url": "https://play.google.com/store/apps/details?id=com.mag.counterattack.shootinggames",
+    "category": "game",
+    "id": "gun-games-3d-shooter-games",
+    "folder": "assets/games/gun-games-3d-shooter-games",
+    "screenshots": [],
+    "videos": []
+  },
+  {
+    "name": "SUV Parking Game - Car Parking",
+    "url": "https://play.google.com/store/apps/details?id=com.ge.modern.car.driving.simulator",
+    "category": "game",
+    "id": "suv-parking-game-car-parking",
+    "folder": "assets/games/suv-parking-game-car-parking",
+    "screenshots": [],
+    "videos": []
+  },
+  {
+    "name": "Car Stunt Game - Car Games 3D",
+    "url": "https://play.google.com/store/apps/details?id=com.ge.impossiblecarstunts.cardrivingsimulator",
+    "category": "game",
+    "id": "car-stunt-game-car-games-3d",
+    "folder": "assets/games/car-stunt-game-car-games-3d",
+    "screenshots": [],
+    "videos": []
+  },
+  {
+    "name": "Fruit Farm",
+    "url": "https://play.google.com/store/apps/details?id=com.VillainGamesStudio.FruitFarm",
+    "category": "game",
+    "id": "fruit-farm",
+    "folder": "assets/games/fruit-farm",
+    "screenshots": [],
+    "videos": []
+  },
+  {
+    "name": "AgriCorp Farming Tycoon",
+    "url": "https://play.google.com/store/apps/details?id=com.VillainGamesStudio.AgriCropFarmTycoon",
+    "category": "game",
+    "id": "agricorp-farming-tycoon",
+    "folder": "assets/games/agricorp-farming-tycoon",
+    "screenshots": [],
+    "videos": []
+  },
+  {
+    "name": "Farm Factory",
+    "url": "https://play.google.com/store/apps/details?id=com.Villaingamesstiudio.FarmFactory",
+    "category": "game",
+    "id": "farm-factory",
+    "folder": "assets/games/farm-factory",
+    "screenshots": [],
+    "videos": []
+  },
+  {
+    "name": "Stress Relief - Relaxing Game",
+    "url": "https://play.google.com/store/apps/details?id=com.stress.relaxing.game.fidget.toys.mini.games&hl=en",
+    "category": "game",
+    "id": "stress-relief-relaxing-game",
+    "folder": "assets/games/stress-relief-relaxing-game",
+    "screenshots": [],
+    "videos": []
+  },
+  {
+    "name": "Arrows Go: Logic Puzzle Escape",
+    "url": "https://play.google.com/store/apps/details?id=com.hivemind.arrows.escape.brainpuzzle.games&hl=en",
+    "category": "game",
+    "id": "arrows-go-logic-puzzle-escape",
+    "folder": "assets/games/arrows-go-logic-puzzle-escape",
+    "screenshots": [],
+    "videos": []
+  },
+  {
+    "name": "VR Cricket Pro: Ultimate Challenges 2026",
+    "url": "https://www.meta.com/experiences/vr-cricket-pro-ultimate-challenges-2026/26397948149794536/?require_login=true",
+    "category": "game",
+    "id": "vr-cricket-pro-ultimate-challenges-2026",
+    "folder": "assets/games/vr-cricket-pro-ultimate-challenges-2026",
+    "screenshots": [],
+    "videos": []
+  },
+  {
+    "name": "Spades Card Game Demo",
+    "url": "https://www.linkedin.com/posts/ali-hamza-%F0%9F%87%B5%F0%9F%87%B8-b6bb11197_gamedevelopment-spades-cardgames-activity-7262159852020387841-slJG?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC5C0kMBPS9PywAEBXDqBCt4V-C3M8c2uwo",
+    "category": "demo",
+    "videoLinks": [
+      {
+        "label": "Watch on LinkedIn",
+        "url": "https://www.linkedin.com/posts/ali-hamza-%F0%9F%87%B5%F0%9F%87%B8-b6bb11197_gamedevelopment-spades-cardgames-activity-7262159852020387841-slJG?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC5C0kMBPS9PywAEBXDqBCt4V-C3M8c2uwo"
+      }
+    ],
+    "id": "spades-card-game-demo",
+    "folder": "assets/games/spades-card-game-demo",
+    "screenshots": [],
+    "videos": []
+  },
+  {
+    "name": "Police Simulator Demo",
+    "url": "https://www.linkedin.com/posts/ali-hamza-%F0%9F%87%B5%F0%9F%87%B8-b6bb11197_hello-everyone-this-sy-new-police-simulator-ugcPost-7103059661678870528-lOWJ?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAC5C0kMBPS9PywAEBXDqBCt4V-C3M8c2uwo",
+    "category": "demo",
+    "videoLinks": [
+      {
+        "label": "Watch on LinkedIn",
+        "url": "https://www.linkedin.com/posts/ali-hamza-%F0%9F%87%B5%F0%9F%87%B8-b6bb11197_hello-everyone-this-sy-new-police-simulator-ugcPost-7103059661678870528-lOWJ?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAC5C0kMBPS9PywAEBXDqBCt4V-C3M8c2uwo"
+      }
+    ],
+    "id": "police-simulator-demo",
+    "folder": "assets/games/police-simulator-demo",
+    "screenshots": [],
+    "videos": []
+  },
+  {
+    "name": "Bike Stunt Demo",
+    "url": "https://www.linkedin.com/posts/ali-hamza-%F0%9F%87%B5%F0%9F%87%B8-b6bb11197_bikestunt-gamedevelopment-activity-7068255059490279425-j1QB?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAC5C0kMBPS9PywAEBXDqBCt4V-C3M8c2uwo",
+    "category": "demo",
+    "videoLinks": [
+      {
+        "label": "Watch on LinkedIn",
+        "url": "https://www.linkedin.com/posts/ali-hamza-%F0%9F%87%B5%F0%9F%87%B8-b6bb11197_bikestunt-gamedevelopment-activity-7068255059490279425-j1QB?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAC5C0kMBPS9PywAEBXDqBCt4V-C3M8c2uwo"
+      }
+    ],
+    "id": "bike-stunt-demo",
+    "folder": "assets/games/bike-stunt-demo",
+    "screenshots": [],
+    "videos": []
+  },
+  {
+    "name": "AI Demo",
+    "url": "https://www.linkedin.com/posts/ali-hamza-%F0%9F%87%B5%F0%9F%87%B8-b6bb11197_ai-activity-7058416583865475072-bgd7?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAC5C0kMBPS9PywAEBXDqBCt4V-C3M8c2uwo",
+    "category": "demo",
+    "videoLinks": [
+      {
+        "label": "Watch on LinkedIn",
+        "url": "https://www.linkedin.com/posts/ali-hamza-%F0%9F%87%B5%F0%9F%87%B8-b6bb11197_ai-activity-7058416583865475072-bgd7?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAC5C0kMBPS9PywAEBXDqBCt4V-C3M8c2uwo"
+      }
+    ],
+    "id": "ai-demo",
+    "folder": "assets/games/ai-demo",
+    "screenshots": [],
+    "videos": []
+  },
+  {
+    "name": "Older Video Collection",
+    "url": "https://drive.google.com/drive/folders/15yN1FrYRG24yqZEl0Oi7SQ4ImaTK6tZU?usp=sharing",
+    "category": "demo",
+    "videoLinks": [
+      {
+        "label": "Open video collection",
+        "url": "https://drive.google.com/drive/folders/15yN1FrYRG24yqZEl0Oi7SQ4ImaTK6tZU?usp=sharing"
+      }
+    ],
+    "id": "older-video-collection",
+    "folder": "assets/games/older-video-collection",
+    "screenshots": [],
+    "videos": []
+  }
+]
